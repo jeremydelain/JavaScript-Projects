@@ -36,7 +36,7 @@ function constant_function() {
         model: "Civic"
     };
     Car.year = "2012";
-    Car.miles = "160,000"
+    Car.miles = "160,000";
     document.getElementById("Constant").innerHTML = "My " + Car.year + " Honda Civic has " + Car.miles + " miles on it.";
 }
 

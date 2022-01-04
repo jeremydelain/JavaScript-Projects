@@ -1,0 +1,4 @@
+function change () {
+    var X = document.getElementsByClassName("click");
+    X[0].innerHTML = "See?";
+}
